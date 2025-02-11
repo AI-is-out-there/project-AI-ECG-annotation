@@ -5,3 +5,13 @@
 Эйнтховен стал разрабатывать свой прибор, который смог бы точно регистрировать сердечные сокращения.
 
 У него получилось создать такой прибор, и за это изобретение Эйнтховена наградили Нобелевской премией в 1924 года.
+
+Полезные ссылки:
+3D cardio vascular system
+https://www.msdmanuals.com/home/multimedia/3dmodel/cardiovascular-system
+
+Interactive human map
+https://human.biodigital.com/
+
+ECG waves desrcibe:
+https://ecgwaves.com/topic/introduction-electrocardiography-ecg-book/
