@@ -15,3 +15,7 @@ https://human.biodigital.com/
 
 ECG waves desrcibe:
 https://ecgwaves.com/topic/introduction-electrocardiography-ecg-book/
+
+
+ECG forms and diagnosis:
+https://learnecg.ru/ecg_example/ecg_example_menu.php
